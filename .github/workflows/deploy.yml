@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - data/speakers.xlsx
+      - assets/data/speakers.xlsx
 
 jobs:
   build:
